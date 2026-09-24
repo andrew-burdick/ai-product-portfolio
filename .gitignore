@@ -216,3 +216,15 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# --- Added for this portfolio ---
+# Windows system files
+Thumbs.db
+desktop.ini
+
+# Claude Code personal settings (your local permissions)
+.claude/settings.local.json
+
+# Key and certificate files
+*.pem
+*.key
