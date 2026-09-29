@@ -6,7 +6,7 @@ This portfolio follows one fictional institution, **Kestrel Business Bank**, fro
 
 | Project | What it shows | Status |
 | --- | --- | --- |
-| P1 AI opportunity strategy | Discovery, prioritisation, business case, roadmap | Planned |
+| P1 AI opportunity strategy | Discovery, prioritisation, business case, roadmap | In progress: discovery complete  |
 | P2 SME product guide assistant (RAG) | Prototype, evaluation, responsible AI | Planned |
 | P3 SME onboarding agent | Agent design, APIs, human oversight | Planned |
 
